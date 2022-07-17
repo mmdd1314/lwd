@@ -1,1 +1,2 @@
 # lwd
+print('Hello world!')
